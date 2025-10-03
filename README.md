@@ -31,4 +31,4 @@ No se recomienda ejecutar la celda que entrena el modelo YOLO, ya que dependiend
 ### Citaciones
 ---
 * Datos: Kaggle - Brain CT Images with Intracranial Hemorrhage Masks
-* Enlace: [[https://www.kaggle.com/datasets/felipekitamura/head-ct-hemorrhage](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images)]
+* Enlace: [(https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images)]
