@@ -1,5 +1,4 @@
 # Proyecto Final Integrador: Clasificación y Detección de Hemorragias Intracraneales
----
 Este repositorio contiene el código, datos y recursos utilizados en el Proyecto Final Integrador de la Diplomatura en Ciencia de Datos y Análisis Avanazdo del Centro de E-Learning
 de la Universidad Tecnológica Nacional. El objetivo es predecir y clasificar mediante técnicas de Machine Learning diferentes tipos de hemorragias intracraneales a partir de datos
 de diagnóstico y demográficos de determinados pacientes, y detectar y segmentar la lesión en un dataset de tomografías computarizadas utilizando Redes Neuronales Convolucionales
