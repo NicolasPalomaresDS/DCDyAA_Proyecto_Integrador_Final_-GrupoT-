@@ -1,0 +1,5 @@
+path: data/computed-tomography-images-for-intracranial-hemorrhage-detection-and-segmentation-1.0.0/dataset_yolo_seg
+train: images/train_balanced
+val: images/val_balanced
+nc: 1
+names: ['HGE']
