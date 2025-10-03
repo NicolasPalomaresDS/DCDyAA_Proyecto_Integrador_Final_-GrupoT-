@@ -12,7 +12,7 @@ de diagnóstico y demográficos de determinados pacientes, y detectar y segmenta
 * `data/`: Directorio con todos los datos necesarios descargados de Kaggle, incluyendo datasets en formato CSV, dataset de tomografías (base y transformadas para el modelo), y archivos de ayuda y licensias proporcionadas por el autor.
 * `gui/`: Directorio con la interfaz gráfica de prueba del modelo YOLO en formato script de Python.
 * `runs/`: Pruebas de validación, resultados de entrenamiento, gráficos y pesos del modelo final YOLOv8s entrenado.
-* `utils/`: Directorio con los scripts y funciones utilizados para el modelado de los algoritmos (`ML_models.py`), balanceo de datos e imágenes con augmentations (`balance_dataset.py`), preparación y separación de las imágenes (`split_data.py`) y prueba de desempeño para el modelo YOLO (test_YOLO.py`).
+* `utils/`: Directorio con los scripts y funciones utilizados para el modelado de los algoritmos (`ML_models.py`), balanceo de datos e imágenes con augmentations (`balance_dataset.py`), preparación y separación de las imágenes (`split_data.py`) y prueba de desempeño para el modelo YOLO (`test_YOLO.py`).
 * `yolo_models/`: Directorio con el modelo YOLOv8s base.
 * `README.md`: Archivo de lectura del repositorio actual.
 
