@@ -4,8 +4,7 @@ de la Universidad Tecnológica Nacional. El objetivo es predecir y clasificar me
 de diagnóstico y demográficos de determinados pacientes, y detectar y segmentar la lesión en un dataset de tomografías computarizadas utilizando Redes Neuronales Convolucionales
 (YOLO).
 
-### Estructura del directorio
----
+# Estructura del directorio
 * `notebook_proyecto_final.ipunb`: Notebook de Jupyter con la carga de los datos, análisis, preprocesamiento, ingeniería de variables, modelado (LightGBM, YOLOv8), evaluación de las métricas, explicación de variables con SHAP y pruebas de desempeño.
 *  `data_yaml_yolov8_seg.yaml`: Archivo de configuración del modelo YOLOv8.
 * `data/`: Directorio con todos los datos necesarios descargados de Kaggle, incluyendo datasets en formato CSV, dataset de tomografías (base y transformadas para el modelo), y archivos de ayuda y licensias proporcionadas por el autor.
@@ -15,8 +14,7 @@ de diagnóstico y demográficos de determinados pacientes, y detectar y segmenta
 * `yolo_models/`: Directorio con el modelo YOLOv8s base.
 * `README.md`: Archivo de lectura del repositorio actual.
 
-### Requisitos
----
+# Requisitos
 * Python 3.11 o superior.
 * Librerías: `pandas`, `matplotlib`, `seaborn`, `numpy`, `opencv-python`, `scikit-learn`, `tensorflow`, `ultralytics`, `kaggle`
 Pasos para la instalación y ejecución de la notebook:
@@ -27,7 +25,6 @@ Pasos para la instalación y ejecución de la notebook:
 La notebook descarga automáticamente los datos si se realizaron los pasos correspondientes.
 No se recomienda ejecutar la celda que entrena el modelo YOLO, ya que dependiendo la capacidad física de procesamiento puede demorar mucho tiempo (!)
 
-### Citaciones
----
+# Citaciones
 * Datos: Kaggle - Brain CT Images with Intracranial Hemorrhage Masks
 * Enlace: [https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images]
