@@ -5,7 +5,7 @@ de diagnóstico y demográficos de determinados pacientes, y detectar y segmenta
 (YOLO).
 
 ### Estructura del directorio
---
+---
 * `notebook_proyecto_final.ipunb`: Notebook de Jupyter con la carga de los datos, análisis, preprocesamiento, ingeniería de variables, modelado (LightGBM, YOLOv8), evaluación de las métricas, explicación de variables con SHAP y pruebas de desempeño.
 *  `data_yaml_yolov8_seg.yaml`: Archivo de configuración del modelo YOLOv8.
 * `data/`: Directorio con todos los datos necesarios descargados de Kaggle, incluyendo datasets en formato CSV, dataset de tomografías (base y transformadas para el modelo), y archivos de ayuda y licensias proporcionadas por el autor.
